@@ -1,0 +1,18 @@
+{   "name": "A03Condray",
+    "version": "0.0.1",
+    "description": "building personal website",
+    "main": "main.js",
+    "dependencies": {
+        "express": "latest",
+        "morgan": "latest",
+        "body-parser": "latest",
+        "ejs": "latest"
+    },
+    "author": "Chester Condray",
+    "homepage": "https://github.com/s514290/44563-A03",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/s514290/44563-A03"
+    },
+     "license": "Apache-2.0",
+}
